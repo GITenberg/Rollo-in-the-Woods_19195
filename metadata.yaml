@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2136
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
 description: Rollo makes a wigwam in the woods and argues with James.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19195#Rollo-in-the-Woods
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2006-09-07'
 gutenberg_type: Text
